@@ -1,0 +1,14 @@
+
+
+
+Summary of what I found while analyzing the Canadian cheese data alongside provincial temperature information:
+
+1.Cheese Moisture vs. Temperature:
+
+I noticed that provinces with warmer average annual temperatures tend to produce cheeses with slightly higher moisture content. It’s not a perfect correlation, but there’s a gentle trend.In warmer places, it might be easier (or more traditional) to make and store softer, moister cheeses. Cooler provinces may lean more into firm or aged cheeses with lower moisture levels.
+
+2.Organic Cheese Production:
+This one surprised me! Some of the colder provinces, like Quebec and Manitoba, had a decent number of organic cheeses. But the biggest standout was British Columbia, which had the highest proportion of organic cheese — way above the others. It feels like this has less to do with climate and more to do with local farming practices and what consumers in those areas are into.
+
+3.Overall Takeaway:
+Temperature might play a small role in cheese characteristics, especially things like moisture. But the real story seems to be told by regional culture, market demand, and maybe even provincial policies around food production.
